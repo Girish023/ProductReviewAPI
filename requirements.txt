@@ -1,3 +1,6 @@
-Flask==2.3.3
-Flask-CORS==3.0.10
-pandas==1.5.3
+requests
+beautifulsoup4
+pandas
+textblob
+flask
+nltk
