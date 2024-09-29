@@ -24,8 +24,8 @@ The ProductReviewAPI is designed to help users access and analyze customer feedb
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/Girish023/ProductReviewAPI.git
+   cd ProductReviewAPI
    ```
 
 2. Install the required packages:
